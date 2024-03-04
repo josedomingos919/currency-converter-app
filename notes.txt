@@ -1,0 +1,2 @@
+[API para converter moedas]
+https://app.freecurrencyapi.com/dashboard
